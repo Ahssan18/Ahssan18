@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Kotlin,Jetpack,Nav Components
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me at ahssanakhtar18@gmail.com
 
 <!---
 Ahssan18/Ahssan18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
